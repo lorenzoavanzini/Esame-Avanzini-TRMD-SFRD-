@@ -1,1 +1,3 @@
 # Esame-Avanzini-TRMD-SFRD-
+
+In questa repository, trovere tutto il risultato del mio lavoro per l'esame di Tecniche di Rappresentazione e Modellizzazione dei Dati, corso professionalizzante a scelta per la laurea triennale in Fisica all'Università degli Studi di Trieste. Al suo interno, troverete un Jupyter Notebook "Esame_Lorenzo_Avanzini.ipynb", contenente svolgimento e discussione dei risultati in un unico file. Troverete, inoltre, il file pdf con il testo d'esame, i dataset usati "sfrh.npy" e "params.txt" ed una serie di file '.pt' dove ho salvato i risultati dei modelli di machine learning utilizzati. Questi file sono accessori e la presentazione del lavoro si riduce al solo Notebook ma ho preferito includerli per completezza. 
